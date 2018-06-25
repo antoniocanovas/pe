@@ -22,3 +22,8 @@
 	path = OCA/connector
 	url = git@github.com:OCA/connector.git
 	branch = 10.0
+
+[submodule "OCA/mis-builder"]
+	path = OCA/mis-builder
+	url = git@github.com:OCA/mis-builder.git
+	branch = 10.0
