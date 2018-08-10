@@ -22,3 +22,7 @@
 	path = OCA/mis-builder
 	url = https://github.com/OCA/mis-builder.git
 	branch = 10.0
+[submodule "account-closing"]
+	path = account-closing
+	url = https://github.com/OCA/account-closing.git
+	branch = 10.0
