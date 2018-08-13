@@ -1,24 +1,68 @@
-[submodule "OCA/server-tools"]
-	path = OCA/server-tools
-	url = https://github.com/OCA/server-tools.git
+[submodule "account-closing"]
+	path = account-closing
+	url = https://github.com/OCA/account-closing.git
 	branch = 10.0
-[submodule "OCA/account-financial-tools"]
-	path = OCA/account-financial-tools
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = https://github.com/OCA/account-financial-reporting.git
+	branch = 10.0
+[submodule "account-invoice-reporting"]
+	path = account-invoice-reporting
+	url = https://github.com/OCA/account-invoice-reporting.git
+	branch = 10.0
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = https://github.com/OCA/account-invoicing.git
+	branch = 10.0
+[submodule "bank-statement-import"]
+	path = bank-statement-import
+	url = https://github.com/OCA/bank-statement-import.git
+	branch = 10.0
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = https://github.com/OCA/purchase-workflow.git
+	branch = 10.0
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = https://github.com/OCA/reporting-engine.git
+	branch = 10.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = https://github.com/OCA/stock-logistics-workflow.git
+	branch = 10.0
+[submodule "stock-logistics-warehouse"]
+	path = stock-logistics-warehouse
+	url = https://github.com/OCA/stock-logistics-warehouse.git
+	branch = 10.0
+[submodule "web"]
+	path = web
+	url = https://github.com/OCA/web.git
+	branch = 10.0
+[submodule "website"]
+	path = website
+	url = https://github.com/OCA/website.git
+	branch = 10.0
+[submodule "account-financial-tools"]
+	path = account-financial-tools
 	url = https://github.com/OCA/account-financial-tools.git
 	branch = 10.0
-[submodule "OCA/connector"]
-	path = OCA/connector
-	url = https://github.com/OCA/connector.git
-	branch = 10.0
-[submodule "OCA/queue"]
-	path = OCA/queue
-	url = https://github.com/OCA/queue.git
-	branch = 10.0
-[submodule "OCA/l10n-spain"]
-	path = OCA/l10n-spain
+[submodule "l10n-spain"]
+	path = l10n-spain
 	url = https://github.com/OCA/l10n-spain.git
 	branch = 10.0
-[submodule "OCA/mis-builder"]
-	path = OCA/mis-builder
+[submodule "server-tools"]
+	path = server-tools
+	url = https://github.com/OCA/server-tools.git
+	branch = 10.0
+[submodule "queue"]
+	path = queue
+	url = https://github.com/OCA/queue.git
+	branch = 10.0
+[submodule "connector"]
+	path = connector
+	url = https://github.com/OCA/connector.git
+	branch = 10.0
+[submodule "mis-builder"]
+	path = mis-builder
 	url = https://github.com/OCA/mis-builder.git
 	branch = 10.0
